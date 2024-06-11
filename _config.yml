@@ -27,7 +27,7 @@ author:
   bio              : "Ulink College of Shanghai, 2017-2021
                       Imperial College London, 2021-2025"
   location         : "London, United Kingdom"
-  employer         : "[Imperial College London](https://www.imperial.ac.uk/)"
+  employer         : "Imperial College London"
   uri              : #"https://www.imperial.ac.uk/"
   email            : "peiyi.zhou21@imperial.ac.uk"
 
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "PZhou114"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
