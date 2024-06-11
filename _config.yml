@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Peiyi Zhou"
   pronouns         : "he/him"  
-  bio              : "Ulink College of Shanghai, 2017-2021,
+  bio              : "Ulink College of Shanghai, 2017-2021
                       Imperial College London, 2021-2025"
   location         : "London, United Kingdom"
-  employer         : "Imperial College London"
-  uri              : "https://www.imperial.ac.uk/"
+  employer         : "[Imperial College London](https://www.imperial.ac.uk/)"
+  uri              : #"https://www.imperial.ac.uk/"
   email            : "peiyi.zhou21@imperial.ac.uk"
 
   # Academic websites
