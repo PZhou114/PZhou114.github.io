@@ -9,37 +9,55 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+PERSONAL PROFILE
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Having completed my BSc in Mathematics at Imperial College London, I am now beginning my MSci in Applied Statistics at the same institution. I possess a strong interest and robust skills in statistics, data science, machine learning, and project management, all of which have been refined through several years of research experience.
 
-Work experience
+EDUCATION
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* BSc Mathematics, Imperial College London, United Kingdom, 2021-2024
+  * Year 3: choose courses related to statistics including stochastic process, time series, and stochastic simulation, along with data science and a research project related to Markov chain Monte Carlo methods
+  * Year 2: achieved First (70.3%), with distinction in the Second Year Group project and courses: probability and statistics, statistical modelling
+  * Year 1: achieved First (72.3%), with distinction in First Year independent project
+  * Horizons - German Level 1 and 2: Pass
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Ulink College of Shanghai, China, 2017-2021
+  * A Levels: Mathematics (A*), Physics (A*), Chemistry (A*), Further Mathematics (A*)
+  * IGCSEs: 9 including Mathematics (A*), Physics (A*), Chemistry (A*), Economics (A*) and English as a First Language (A)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+RELEVANT EXPERIENCES
+======
+* Third Year undergraduate Individual Project, Imperial College London, January-June 2024
+  * Project relating to evaluate the performance of different Markov Chain Monte Carlo algorithms on sampling from log-concave distributions, including the discussion and visualisation of unadjusted Langevin algorithm (ULA) and underdamped Langevin diffusions, with different discretisations
+  * Improved skills in writing reports, reading literature, making presentation and coding
+  * Project supervisor: Dr. Deniz Akyildiz, Imperial College London
+
+* Researcher, Undergraduate Research Opportunities Programme (UROP), Imperial College London, July-August 2023
+  * Project relating to engineer and design composite materials at subwavelength scale to obtain properties beyond that of naturally occurring materials
+  * Developed proficiency with MATLAB
+  * Project supervisor: Dr. Richard Wiltshaw, Imperial College London
+
+* Second Year undergraduate Group Project, Imperial College London, May-June 2023
+  * Group Project relating to Three wave equations
+  * Acted as a group leader to talk with supervisors and manage group tasks effectively
+  * Developed proficiency in using Python, LATEX and presentation skills
+  * Project supervisor: Professor Darryl Holm, Imperial College London
+  * Won the Imperial College’s Winton Prize - outstanding undergraduate second year group project prize in mathematics
+
+* First Year undergraduate individual Project, Imperial College London, May-June 2022
+  * Individual Project related to fluid dynamics, airfoils and complex analysis
+  * Improved skills in using Python and poster designing by LATEX
+  * Project supervisor: Dr. Samual Brzezicki
+
+* Part-time math teaching assistant, Vision Academy, China, July 2021
+  * Assisted junior students to help them prepare their admission examinations of the senior high schools during summer holiday 2021
+  * Learnt to distribute tasks and collaborate with junior students and teaching staffs
+  * Provided problem-solving skills and university application suggestions
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Developed programming skills in Python, MATLAB and R for data analysis
+* Advanced proficiency in Microsoft Office (Excel, PowerPoint and Word) and LATEX
 
 Publications
 ======
@@ -47,18 +65,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
