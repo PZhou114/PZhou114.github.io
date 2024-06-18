@@ -15,11 +15,11 @@ Having completed my BSc in Mathematics at Imperial College London, I am now begi
 
 EDUCATION
 ======
+* MSc Statistics (Applied Statistics), Imperial College London, 2024-2025
 * BSc Mathematics, Imperial College London, United Kingdom, 2021-2024
-  * Year 3: choose courses related to statistics including stochastic process, time series, and stochastic simulation, along with data science and a research project related to Markov chain Monte Carlo methods
-  * Year 2: achieved First (70.3%), with distinction in the Second Year Group project and courses: probability and statistics, statistical modelling
-  * Year 1: achieved First (72.3%), with distinction in First Year independent project
-  * Horizons - German Level 1 and 2: Pass
+  * Year 3: achieved (), with...
+  * Year 2: achieved First (70.3%), with distinction in the Second Year undergraduate Group project
+  * Year 1: achieved First (72.3%), with distinction in First Year undergraduate independent project
 
 * Ulink College of Shanghai, China, 2017-2021
   * A Levels: Mathematics (A*), Physics (A*), Chemistry (A*), Further Mathematics (A*)
