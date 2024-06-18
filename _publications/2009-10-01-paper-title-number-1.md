@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "M3R thesis: sampling from log-concave distributions through MCMC methods"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+excerpt: 'This paper and presentation comprise my M3R undergraduate project thesis and the accompanying slides for my final year.'
+date: 2024-06-10
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+slidesurl: 'http://PZhou114.github.io/files/M3R_Presentation.pdf'
+paperurl: 'http://PZhou114.github.io/files/M3R_Thesis.pdf'
+citation: 'Peiyi Zhou. (2024). &quot;Sampling from log-concave distributions through MCMC methods.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This report aims to discuss the behaviour of Markov Chain Monte Carlo (MCMC) methods for dealing with sampling problems, involving (i) the implementation of unadjusted Langevin algorithm derived from overdamped Langevin stochastic differential equation, and (ii) underdamped Langevin samplers derived from underdamped Langevin stochastic differential equation, with two different discretisations. For visualisation and evaluation of each algorithm’s sampling performance, we focus on analysing the behaviour for sampling from the 1D Gaussian distributions, as an example of a log-concave distribution, which will be used as the target distribution throughout this report. Particularly, we will derive analytic expressions for the stationary distributions of these discretisations, some of which are known in the literature whereas some are not. Of particular importance are the stationary distributions of underdamped Langevin algorithms, which are not given as examples in the literature before, which we find important to derive. We will also discuss the convergence properties of these algorithms.
