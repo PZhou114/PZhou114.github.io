@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-PERSONAL PROFILE
+Personal profile
 ======
 Having completed my BSc in Mathematics at Imperial College London, I am now beginning my MSci in Applied Statistics at the same institution. I possess a strong interest and robust skills in statistics, data science, machine learning, and project management, all of which have been refined through several years of research experience.
 
-EDUCATION
+Education
 ======
 * MSc Statistics (Applied Statistics), Imperial College London, 2024-2025
 * BSc Mathematics, Imperial College London, United Kingdom, 2021-2024
@@ -25,7 +25,7 @@ EDUCATION
   * A Levels: Mathematics (A*), Physics (A*), Chemistry (A*), Further Mathematics (A*)
   * IGCSEs: 9 including Mathematics (A*), Physics (A*), Chemistry (A*), Economics (A*) and English as a First Language (A)
 
-RELEVANT EXPERIENCES
+Relevant experiences
 ======
 * Third Year undergraduate Individual Project, Imperial College London, January-June 2024
   * Project relating to evaluate the performance of different Markov Chain Monte Carlo algorithms on sampling from log-concave distributions, including the discussion and visualisation of unadjusted Langevin algorithm (ULA) and underdamped Langevin diffusions, with different discretisations
@@ -59,7 +59,7 @@ Skills
 * Developed programming skills in Python, MATLAB and R for data analysis
 * Advanced proficiency in Microsoft Office (Excel, PowerPoint and Word) and LATEX
 
-MY WORKS AND PAPERS
+My works and papers
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
