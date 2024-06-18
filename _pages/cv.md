@@ -59,7 +59,7 @@ Skills
 * Developed programming skills in Python, MATLAB and R for data analysis
 * Advanced proficiency in Microsoft Office (Excel, PowerPoint and Word) and LATEX
 
-Publications
+MY WORKS AND PAPERS
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
