@@ -1,6 +1,6 @@
 ---
 title: "Convolutional Neural Network: introduction and implementation"
-collection: publications
+collection: notes
 permalink: /notes/DS_and_ML_CNN
 excerpt: 'CNN.'
 date: 2024-08-14
