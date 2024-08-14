@@ -1,7 +1,7 @@
 ---
 title: "Convolutional Neural Network: introduction and implementation"
-collection: notes
-permalink: /notes/DS_and_ML_CNN
+collection: learning-notes
+permalink: /learning-notes/DS_and_ML_CNN
 excerpt: 'CNN.'
 date: 2024-08-14
 venue: 'Imperial College London, institutional repository'
