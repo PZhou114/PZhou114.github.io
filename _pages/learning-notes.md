@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Learning notes"
-permalink: /notes/
+permalink: /learning-notes/
 author_profile: true
 ---
 
