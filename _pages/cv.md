@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my complete CV [file:///D:/University%20documents/Year%204/PhD%20application/CV.pdf] here.
+You can find my complete [CV] (file:///D:/University%20documents/Year%204/PhD%20application/CV.pdf) here.
 
 Education
 ======
