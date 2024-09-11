@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Personal profile
-======
-Having completed my BSc in Mathematics at Imperial College London, I am now beginning my MSci in Applied Statistics at the same institution. I possess a strong interest and robust skills in statistics, data science, machine learning, and project management, all of which have been refined through several years of research experience.
+You can find my complete CV [file:///D:/University%20documents/Year%204/PhD%20application/CV.pdf] here.
 
 Education
 ======
