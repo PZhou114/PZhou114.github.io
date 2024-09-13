@@ -7,12 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-'Be conscious, be conscientious.'
-
 About me
 ==
-Hello and welcome to my corner of the internet! 
-
 I am currently a final year graduate student majoring in [Statistics](https://www.imperial.ac.uk/statistics/) (Applied Statistics) in the [Department of Mathematics, Imperial College London](https://www.imperial.ac.uk/mathematics/), where I also earned a First Class Honours Bachelor's degree in Mathematics.
 
 Research
