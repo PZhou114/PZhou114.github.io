@@ -20,7 +20,7 @@ Education
 Research Experience
 ======
 * **Researcher**, Third Year undergraduate Individual Project (M3R), Imperial College London, January-June 2024
-  * Project relating to sampling from log-concave distributions through Markov Chain Monte Carlo methods, including the discussion and visualisation of Underdamped Langevin Algorithm and Underdamped Langevin Diffusion.
+  * Project relating to sampling from log-concave distributions through Markov Chain Monte Carlo methods, including the discussion and visualisation of Unadjusted Langevin Algorithm and Underdamped Langevin Diffusion.
   * Improved skills in writing reports, reading literature, making presentation and coding.
   * Project supervisor: [Dr. Deniz Akyildiz](https://akyildiz.me/), Department of Statistics, Imperial College London.
   * Passed with Distinction (81.40%).
