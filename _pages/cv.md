@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* MSci Statistics (Applied Statistics), Imperial College London, *degree not yet awarded*, 2024-2025
+* MSc Statistics (Applied Statistics), Imperial College London, *Predicted degree: Distinction*, 2024-2025
+  * Statistics courses included: Applied Statistics, Computational Statistics, Fundamentals of Statistics Inference, Probability for Statistics, Advanced Simulation Methods, Advanced Bayesian Methods, Introduction to Statistical Finance, Statistical Genetics and Bioinfometrics, Advanced Statistical Finance and Deep Learning.
 * BSc Mathematics, Imperial College London, *First Class Honours*, 2021-2024
   * Statistics courses included (from the first year to the final year): Probability and Statistics, Probability for Statistics, Statistical Modelling 1, Applied Probability, Introduction to Statistical Learning, Statistical Theory, Stochastic Simulation and Time Series Analysis.
 * Ulink College of Shanghai, China, 2017-2021
@@ -36,13 +37,18 @@ Research Experience
   * Led an increase in the ability to work with group members and supervisor.
   * Developed proficiency in using Python, LATEX and presentation skills.
   * Project supervisor: [Professor Darryl Holm](https://profiles.imperial.ac.uk/d.holm/about), Department of Mathematics, Imperial College London.
-  * Passed with Distinction (87.00%), won the Imperial College’s Winton Prize - outstanding undergraduate second year group project prize in mathematics.
+  * Passed with Distinction (87.00%).
 
 * **Researcher**, First Year undergraduate individual Project, Imperial College London, May-June 2022
   * Individual Project related to fluid dynamics, airfoils and the applications of complex analysis.
   * Improved skills in poster designing by using LATEX, and python skills for programming.
   * Project supervisor: [Dr. Samual Brzezicki](https://profiles.imperial.ac.uk/samuel.brzezicki10), Department of Mathematics, Imperial College London.
   * Pass with Distinction (73.00%).
+
+Awards
+=====
+* The Winton Prize, Sept. 2023
+  * Award presented to students with outstanding undergraduate second year group project prize in mathematics.
 
 Additional Experience
 ======
