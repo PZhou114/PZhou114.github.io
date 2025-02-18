@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * MSc Statistics (Applied Statistics), Imperial College London, *Predicted degree: Distinction*, 2024-2025
-  * Statistics courses included: Applied Statistics, Computational Statistics, Fundamentals of Statistics Inference, Probability for Statistics, Advanced Simulation Methods, Advanced Bayesian Methods, Introduction to Statistical Finance, Statistical Genetics and Bioinfometrics, Advanced Statistical Finance and Deep Learning.
+  * Statistics courses included: Applied Statistics, Computational Statistics, Fundamentals of Statistics Inference, Probability for Statistics, Advanced Simulation Methods, Advanced Bayesian Methods, Introduction to Statistical Finance, Mathematical Foundations of Machine Learning and Deep Learning.
 * BSc Mathematics, Imperial College London, *First Class Honours*, 2021-2024
   * Statistics courses included (from the first year to the final year): Probability and Statistics, Probability for Statistics, Statistical Modelling 1, Applied Probability, Introduction to Statistical Learning, Statistical Theory, Stochastic Simulation and Time Series Analysis.
 * Ulink College of Shanghai, China, 2017-2021
