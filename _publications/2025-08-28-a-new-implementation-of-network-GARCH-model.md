@@ -5,7 +5,7 @@ permalink: /publication/2025-08-28-a-new-implementation-of-network-GARCH-model
 date: 2025-08-28
 venue: 'arXiv: 2510.18599 [stat.ME]'
 slidesurl: 'http://PZhou114.github.io/files/Master_Presentation.pdf'
-paperurl: 'http://PZhou114.github.io/files/Thesis.pdf'
+paperurl: 'http://PZhou114.github.io/files/Master_Thesis_arXiv.pdf'
 citation: 'Peiyi Zhou. (2025). &quot;A new implementation of Network GARCH Model.&quot; arXiv:2510.18599 [stat.ME]'
 ---
 
