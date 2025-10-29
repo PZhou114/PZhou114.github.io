@@ -5,17 +5,8 @@ type: "Workshop"
 permalink: /teaching/2025-R-workshop-1
 venue: "University College London, Department of Statistical Science"
 date: 2025-10-15
-slidesurl: 'http://PZhou114.github.io/files/Master_Presentation.pdf'
+slidesurl: 'http://PZhou114.github.io/files/R_workshop_10_15.pdf'
 location: "London"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+A brief introduction lecture for R and RStudio for new undergraduate and graduate students. The workshop was organised by UCL statistical society.
