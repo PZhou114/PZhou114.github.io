@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 ==
-I am currently a PhD student majoring in Statistics in the [Department of Statistical Science, University College London](https://www.ucl.ac.uk/mathematical-physical-sciences/statistics). Previously I was graduated frpm the [Imperial College London](https://www.imperial.ac.uk/mathematics/), where I earned my First Class Honours Bachelor's degree in Mathematics and Distincition Master's degree in Statistics.
+I am currently a PhD student majoring in Statistics in the [Department of Statistical Science, University College London](https://www.ucl.ac.uk/mathematical-physical-sciences/statistics). Previously I was graduated from the [Imperial College London](https://www.imperial.ac.uk/mathematics/), where I earned my First Class Honours Bachelor's degree in Mathematics and Distincition Master's degree in Statistics.
 
 Research
 ==
