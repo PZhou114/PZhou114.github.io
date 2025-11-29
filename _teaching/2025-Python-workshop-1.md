@@ -10,5 +10,4 @@ codesurl: 'http://PZhou114.github.io/files/Python_example.ipynb'
 location: "London"
 ---
 
-A brief introduction lecture for Python for new undergraduate and graduate students. The workshop was organised by UCL statistical society.
-
+A brief introduction lecture for Python for new undergraduate and graduate students. The workshop was organised by UCL statistical society. Codes for the examples and practices can be found at this [link](http://PZhou114.github.io/files/Python_example.ipynb). 
