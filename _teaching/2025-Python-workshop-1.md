@@ -5,7 +5,7 @@ type: "Workshop"
 permalink: /teaching/2025-R-workshop-1
 venue: "University College London, Department of Statistical Science"
 date: 2025-11-12
-slidesurl: 'http://PZhou114.github.io/files/R_workshop_10_15.pdf'
+slidesurl: 'http://PZhou114.github.io/files/Python_workshop_11_12.pdf'
 location: "London"
 ---
 
