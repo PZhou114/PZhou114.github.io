@@ -1,5 +1,5 @@
 ---
-title: "Python workshop: An introduction of R and RStudio"
+title: "Python workshop"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2025-R-workshop-1
