@@ -11,15 +11,23 @@ redirect_from:
 
 Education
 ======
-* MSc Statistics (Applied Statistics), Imperial College London, *Distinction*, 2024-2025
+* PhD in Statistical Science, University College London, 2025-2029
+  * Research in theory and methodology for Monte Carlo sampling algorithms.
+* MSc in Statistics (Applied Statistics), Imperial College London, *Distinction*, 2024-2025
   * Statistics courses included: Applied Statistics, Computational Statistics, Fundamentals of Statistics Inference, Probability for Statistics, Advanced Simulation Methods, Advanced Bayesian Methods, Introduction to Statistical Finance, Mathematical Foundations of Machine Learning and Deep Learning.
-* BSc Mathematics, Imperial College London, *First Class Honours*, 2021-2024
+* BSc in Mathematics, Imperial College London, *First Class Honours*, 2021-2024
   * Statistics courses included (from the first year to the final year): Probability and Statistics, Probability for Statistics, Statistical Modelling 1, Applied Probability, Introduction to Statistical Learning, Statistical Theory, Stochastic Simulation and Time Series Analysis.
 * Ulink College of Shanghai, China, 2017-2021
   * Complete the IGCSE and A-Level courses, with A-star in both Mathematics and Further Mathematics.
 
 Research Experience
 ======
+* **Researcher**, Master's Individual Project, Imperial College London, May 2025-September 2025
+  * Undertook a research project on the development of a new network GARCH model, involving theoretical analysis, simulation studies, and empirical application to real-world data.
+  * Strengthened skills in academic writing, literature review, oral presentation, and statistical computing.
+  * Supervised by Professor Guy Nason, Department of Mathematics, Imperial College London.
+  * Completed an academic thesis and received a Distinction (76.45%).
+
 * **Researcher**, Third Year undergraduate Individual Project (M3R), Imperial College London, January-June 2024
   * Project relating to sampling from log-concave distributions through Markov Chain Monte Carlo methods, including the discussion and visualisation of Unadjusted Langevin Algorithm and Underdamped Langevin Diffusion.
   * Improved skills in writing reports, reading literature, making presentation and coding.
@@ -46,7 +54,7 @@ Research Experience
   * Pass with Distinction (73.00%).
 
 Awards
-=====
+======
 * The Winton Prize, Sept. 2023
   * Award presented to students with outstanding undergraduate second year group project prize in mathematics.
 
