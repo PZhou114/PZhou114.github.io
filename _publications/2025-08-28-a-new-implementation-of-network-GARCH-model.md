@@ -1,5 +1,5 @@
 ---
-title: "Master thesis: a new implementation of network GARCH model"
+title: "A New Implementation of Network GARCH Model for Stock Volatility and Co-Volatility Forecasting"
 collection: publications
 permalink: /publication/2025-08-28-a-new-implementation-of-network-GARCH-model
 date: 2026-07-12
